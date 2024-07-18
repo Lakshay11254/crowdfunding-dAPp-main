@@ -49,12 +49,21 @@ Complete Full Stack Decentralization Crowd Funding Application using **Solidity*
     
 ## Technologies/Frameworks Used :-
 
+## Tools Used
+Docker
+jenkins
+jmeter
+DigitalOcean(Cloud on Kubernetes)
+Minikube(Deploying Locally)
+Frontend
+Blockchain
+
 ### Frontend
 1. Next.js (Using Vite).
 2. Tailwind CSS and Material-Tailwind (For styling).
 3. **ethers.js** for Web3 integration.
 4. IPFS for storing images.
-5. Infura mumbai Testnet (Polygon)
+5. Polygon Amoy Testnet (Polygon)
 
 ## Blockchain
 1. **Solidity** (To develop Smart Contract)
