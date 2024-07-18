@@ -3,7 +3,7 @@ Complete Full Stack Decentralization Crowd Funding Application using **Solidity*
 
 
 
-### See Deployed Version -> https://crowd-funding-da-iw8cgb7n0-sachincoder1.vercel.app/
+### See Deployed Version -> http://157.230.70.74/
 
 &nbsp;
 &nbsp;
