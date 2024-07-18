@@ -50,13 +50,13 @@ Complete Full Stack Decentralization Crowd Funding Application using **Solidity*
 ## Technologies/Frameworks Used :-
 
 ## Tools Used
-Docker
-jenkins
-jmeter
-DigitalOcean(Cloud on Kubernetes)
-Minikube(Deploying Locally)
-Frontend
-Blockchain
+1. Docker
+2. jenkins
+3. jmeter
+4. DigitalOcean(Cloud on Kubernetes)
+5. Minikube(Deploying Locally)
+6. Frontend
+7. Blockchain
 
 ### Frontend
 1. Next.js (Using Vite).
