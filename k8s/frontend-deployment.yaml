@@ -1,0 +1,26 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: crowdfunding-frontend
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app: crowdfunding-frontend
+  template:
+    metadata:
+      labels:
+        app: crowdfunding-frontend
+    spec:
+      containers:
+      - name: crowdfunding-frontend
+        image: omardibba/crowdfunding-frontend:latest
+        ports:
+        - containerPort: 3000
+        resources:
+          requests:
+            cpu: 100m
+            memory: 128Mi
+          limits:
+            cpu: 500m
+            memory: 512Mi
